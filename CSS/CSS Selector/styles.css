@@ -1,0 +1,9 @@
+/* h2{color:red;} */
+.red-text{color:red;}
+#main{color:green;}   /* Unique implement*/
+
+/* Attribute Selector */
+p[draggable="false"]{color:yellow;}
+
+/* Universal Selector */
+*{color : red;}
