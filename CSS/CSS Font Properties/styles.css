@@ -1,7 +1,6 @@
 /* Font Size */
 h1{
     font-size: 20px;
-
 }
 
 #pixel{
@@ -21,4 +20,15 @@ footer{
 }
 html{
     font-size: xx-large;
+}
+h1{
+    font-weight: bold;
+}
+/* Noraml Bold, lighter bolder(relative to Parent), number(100-900)*/
+
+h1{
+    font-family: Helvetica, sans-serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
 }
